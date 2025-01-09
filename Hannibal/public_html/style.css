@@ -1,0 +1,41 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+header h1 {
+    font-family: "Arial";
+    text-align: center;
+    font-size: 40px;
+    border: 3px solid darkblue;
+    padding: 6px;
+    border-radius: 13px;
+}
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+nav ul li {
+    display: inline;
+}
+nav ul li {
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+nav ul li a {
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+article {
+    text-align: justify;
+    font-family: "Arial";
+    font-size: 16px;
+    font-weight: 500;
+}

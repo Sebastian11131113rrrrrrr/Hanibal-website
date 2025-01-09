@@ -1,0 +1,8 @@
+{
+    "name": "Hannibal",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Sebas",
+    "contributors": [],
+    "dependencies": {}
+}
